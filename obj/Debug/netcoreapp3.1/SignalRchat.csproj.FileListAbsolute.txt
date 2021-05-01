@@ -1,0 +1,929 @@
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\SignalRchat.exe
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\SignalRchat.deps.json
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.json
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.dev.json
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\SignalRchat.Views.dll
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.csprojAssemblyReference.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfoInputs.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfo.cs
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CoreCompileInputs.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cs
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.input.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.output.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.RazorCoreGenerate.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cs
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.Manifest.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.xml
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.genruntimeconfig.cache
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CopyComplete
+C:\Users\Ace_M\Desktop\Coding - VS\SignalRchat\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Matsumoto - Web Deploy\profile.arm.json
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Matsumoto - Web Deploy\profile.arm.json
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.exe
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.deps.json
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.json
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.dev.json
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.Views.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csprojAssemblyReference.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfoInputs.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfo.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.input.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.output.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorCoreGenerate.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.Manifest.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.xml
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.genruntimeconfig.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CopyComplete
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CoreCompileInputs.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Anzhel\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Home\Game.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Matsumoto - Web Deploy\profile.arm.json
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.exe
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.deps.json
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.json
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.dev.json
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.Views.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Michael\Desktop\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csprojAssemblyReference.cache
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfoInputs.cache
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfo.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cache
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.input.cache
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.output.cache
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorCoreGenerate.cache
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Home\Game.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cache
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cs
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CopyComplete
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.Manifest.cache
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.xml
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\Michael\Desktop\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.genruntimeconfig.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Matsumoto - Web Deploy\profile.arm.json
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.exe
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.deps.json
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.json
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.dev.json
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.Views.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csprojAssemblyReference.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfoInputs.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfo.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CoreCompileInputs.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.input.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.output.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorCoreGenerate.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Home\Game.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cs
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CopyComplete
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.Manifest.cache
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.xml
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\uzivatel\Desktop\SignalRHangman (2)\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.genruntimeconfig.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Matsumoto - Web Deploy\profile.arm.json
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.exe
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.deps.json
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.json
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.dev.json
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.Views.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csprojAssemblyReference.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfoInputs.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfo.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CoreCompileInputs.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.input.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.output.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorCoreGenerate.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Home\Game.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cs
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CopyComplete
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.Manifest.cache
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.xml
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\Ace_M\Desktop\HanMan Final\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.genruntimeconfig.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\libman.json
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Properties\ServiceDependencies\Matsumoto - Web Deploy\profile.arm.json
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.exe
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.deps.json
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.json
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.runtimeconfig.dev.json
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.Views.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csprojAssemblyReference.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfoInputs.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.AssemblyInfo.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CoreCompileInputs.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorAssemblyInfo.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.input.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.TagHelpers.output.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorCoreGenerate.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Create.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Delete.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Details.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Home\Game.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.RazorTargetAssemblyInfo.cs
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.Views.pdb
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.csproj.CopyComplete
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.Manifest.cache
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\staticwebassets\SignalRchat.StaticWebAssets.xml
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.dll
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.pdb
+C:\Users\Anzhel Petrov\source\repos\SignalRHangman\obj\Debug\netcoreapp3.1\SignalRchat.genruntimeconfig.cache

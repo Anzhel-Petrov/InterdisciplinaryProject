@@ -1,0 +1,191 @@
+﻿body {
+    font-family: 'Teko', sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    font-family: 'Lobster', cursive;
+    font-size: 3em;
+    margin-top: 0;
+    margin-bottom: 2vh;
+}
+
+h4{
+    font-size:1.5em;
+    font-weight:bold;
+}
+
+img {
+    width: 18%;
+}
+
+.container {
+    text-align: center;
+}
+
+#wrong-guesses {
+    font-size: 1.4em;
+    margin-bottom:3vh;
+}
+
+#instruction {
+    font-size: 2.0em;
+}
+
+#wordSpotlight {
+    font-size: 2em;
+}
+
+
+#keyboard button {
+    margin: 1% 0.5%;
+    background-color: #4e2fd4;
+    border: none;
+    color: white;
+    padding: 12px 25px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 1.0em;
+}
+
+#lost {
+    margin-top: 0;
+    color: red;
+    font-weight: bold;
+    font-size: 3em;
+}
+
+#won {
+    margin-top: 0;
+    color: rgb(13, 146, 13);
+    font-weight: bold;
+    font-size: 3em;
+}
+
+#right-answer {
+    margin: 0;
+    color: blue;
+}
+
+#reset-button {
+    width: 60%;
+    margin: 1% 0.5%;
+    background-color: #d42f2f;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 1.0em;
+}
+
+.btn[disabled=disabled], .btn:disabled {
+    background-color: #719eff !important;
+}
+
+#info{
+    font-size: 1.7em;
+    color: darkgrey;
+}
+
+#gridContainer {
+    display: grid;
+    grid-template-columns: 25% 75%;
+    justify-content: center;
+    grid-template-areas: 
+        "left right"
+}
+
+#leftPanel {
+    text-align:left;
+    margin: 0;
+    grid-area: left;
+}
+
+#rightPanel {
+    justify-content:center;
+    margin: 0;
+    grid-area: right;
+}
+
+#keyboard {
+    max-width: 60%;
+    margin: 0 auto;
+}
+
+#startGame {
+    width: 60%;
+    margin: 1% 0.5%;
+    background-color: #8af366;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 1.0em;
+}
+
+#userList {
+    padding-left:0;
+    list-style: none;
+    font-size: 1.1em;
+}
+@media only screen and (min-width: 900px) {
+    .container {
+        width: 900px;
+        margin: 0 auto;
+    }
+}
+
+.modal {
+    display: none;
+    position: fixed;
+    min-height: 100vh;
+    min-width: 100vw;
+    z-index: 200;
+    top: 0;
+    left: 0;
+    background-color: rgba(0.2, 0.2, 0.2, 0.8);
+}
+
+.modal.active {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.modal-body {
+    min-width: 300px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #5186bb;
+    padding: 1rem;
+}
+
+.modal-body > header {
+    color: #212529;
+    font-size: 24px;
+}
+
+
+#gameName{
+    height: 5vh;
+}
+
+#registerName {
+    width:20%;
+    margin: 1% 0.5%;
+    background-color: #49d45d;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-size: 1.0em;
+}
+
+#name{
+    font-size:1.5 em;
+    font-weight:bold;
+}

@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Question>
+    <div id="gridContainer">
+        <div id="leftPanel">
+            <div >
+                <div ><input type="hidden" id="userInput" value="@ViewBag.User" /></div>
+            </div>
+
+            <div >
+                <div >
+                    <input type="button" id="startGame" value="Find Player!" />
+                </div>
+            </div>
+
+            <div >
+                <h4>Players in the lobby:</h4>
+                <ul id="userList"></ul>
+            </div>
+        </div>
+
+        <div id="rightPanel">
+            <div id="game">
+                <div class="container">
+                    <h1>Hangman</h1>
+                    <div id="wrong-guesses" >Wrong Guesses: <span id='mistakes'>0</span> of <span id='maxWrong'></span></div>
+                    <div id="game">
+                        <img id='hangmanPic' src="/images/0.jpg" alt="">
+                        <p id="instruction">Guess the Word:</p>
+                        <p id="wordSpotlight"></p>
+                        <div id="info"></div>
+                        <div id="keyboard"></div>
+                        <button id="reset-button"  onClick="reset()">Reset</button>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script type="text/javascript">
+    var x = document.getElementById("game");
+    x.style.display = "none";
+    var myArray = [];
+
+    @foreach (var word in Model)
+    {
+        @:myArray.push("@word.Title");
+    }
+    </script>
+    <script src="~/js/word.js"></script>
